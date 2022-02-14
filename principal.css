@@ -34,5 +34,10 @@ img {
 }
 
 a {
-    color:white;
+    color:black;
+}
+
+nav {
+   margin-left: 40%;
+   margin-right: 40%;
 }
